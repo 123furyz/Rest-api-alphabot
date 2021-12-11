@@ -135,7 +135,7 @@ loghandler = {
     error: {
         status: false,
         creator: `${creator}`,
-        message: 'mungkin sedang dilakukan perbaikan'
+        message: 'DIAMOND'
     }
 }
 
