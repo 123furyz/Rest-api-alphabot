@@ -133,7 +133,7 @@ loghandler = {
         message: 'masukan parameter status, apikeyInput, email, nomorhp, name, age, country, exp'
     },
     error: {
-        status: false,
+        status: true,
         creator: `${creator}`,
         message: 'DIAMOND'
     }
